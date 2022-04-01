@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "@web/dev-server": "^0.1.30",
-    "@web/dev-server-esbuild": "^0.2.14"
+    "@web/dev-server-esbuild": "^0.3.0"
   }
 }

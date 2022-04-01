@@ -9,12 +9,12 @@ npm install
 npm start
 ```
 
-It opens a browser window with a self-explanatory button. Click the button and the counter goes up.
+It opens a browser window with a self-explanatory button. Click the button and the counter does not change.
 
-To see it not working:
+To see it working:
 
 ```sh
-git checkout not-working
+git checkout working
 npm install
 npm start
 ```
